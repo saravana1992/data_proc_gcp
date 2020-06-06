@@ -108,5 +108,5 @@ variable "network" {
 
 variable "init_action" {
     description = "initialization_action"
-    default     = "gs://csod-mlp-content-iq-artifact/mlp-cluster-config/bootstrap-dataproc.sh"
+    default     = ""
 }
