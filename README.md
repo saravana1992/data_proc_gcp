@@ -15,7 +15,6 @@ $ git clone https://github.com/saravana1992/data_proc.git
 ->  "region_name"  = "us-west2"
 -> "zone_name" = "us-west2-a"
 ->  "Staging_bucket"  =  "" 
-# "The Cloud Storage staging bucket used to stage files, such as Hadoop jars, between client machines and the cluster"
 ->"policy_uri" = ""
 ->  "master_num_instances"  = 3
 ->  "master_machine_type"   = "n1-standard-8"
