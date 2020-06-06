@@ -1,4 +1,4 @@
-# data_proc_gcp
+# Data_proc - GCP
 
 
 # This document explains how to deploy the data proc using the terraform
